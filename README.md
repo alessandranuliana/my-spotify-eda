@@ -12,8 +12,11 @@ The reference used and which inspired both this project and my ideas are [here](
 _This is under development yet. I update as I work on it._
 
 [data/](data): Here is some clean data I've generate to make easier the analysis and the imports. It was generated using the data provided from Spotify and it's related to my streaming history. 
+
 [Analysis01](Analysis01.ipynb): Here I perform a first analysis trying to get some info about my streaming history regarding genres and artists most listened during this past year.
+
 [ProcessAndFetch](ProcessAndFetch.ipynb): This is where I organize the data coming from the API and fetch with the data available from my streaming history. 
+
 [AnalysisVisualization](): I'm currently working in how to visualize the data analised in the previous notebooks.
 
 
